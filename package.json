@@ -2,7 +2,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/senthamizhdce/react-gh-pages",
+  "homepage":"https://senthamizhdce.github.io/react-gh-pages",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
